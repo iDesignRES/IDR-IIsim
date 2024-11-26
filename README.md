@@ -51,7 +51,7 @@ We are currently working on including more process of these industries as well a
   - Pulp and paper industry
   - Fashion industry
   - Data centers
-  - 
+
 Finally, we have not included at the moment any process to produce the energy requirements or methods to capture and reuse emissions or waste. 
 
 ## Core assumption  
@@ -60,7 +60,7 @@ At the moment, several general assumptions have been made in the description of 
   - Only constant linear models of the process are included at this point. In next versions it is expected to include time variable ramps and non linear descriptions of models when they make sense.
   - The constants used to fit each industrial process came from very different sources. It is advised to read the documentation of each process to assess the suitability of the constants before extrapolate values with the model produced. 
   - The model does not include economy of scale and assumes the input needs scale linearly with the required outputs.
-  - 
+
 Please note that each industrial process has its own set of assumptions that are described in each of the YAML files. 
 
 ## Repository (Remove this part if the model is uploaded in this repository and you don't want to refer to an external repository) 
